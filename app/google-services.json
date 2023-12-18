@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "461050593780",
+    "project_id": "phms-53ba4",
+    "storage_bucket": "phms-53ba4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461050593780:android:136c5feb61ee7aa9c8f9a1",
+        "android_client_info": {
+          "package_name": "com.example.personalhealthmonitoringsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "461050593780-48j3hl127u04l6jp076qaosapa699kba.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoh0jwRvrWZFFz1sK-X9rU7pyNuOB1dTU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "461050593780-48j3hl127u04l6jp076qaosapa699kba.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
